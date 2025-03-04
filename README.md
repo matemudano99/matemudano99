@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @matemudano99
-- 👀 I’m interested in developing and understanding the new technologies being released every day
-- 🌱 I’m currently learning app development at an Associate Degree 
+- 👋 Hi, I’m Mateo
+- 👀 Interested in developing and understanding the new technologies being released every day
+- 🌱 Currently learning app development at an Associate Degree 
 - 📫 Mail me to mateomudano29@gmail.com !
 - ⚡ Fun fact: I do not know any fun fact 😢
